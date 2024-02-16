@@ -2,7 +2,7 @@
 Setting up Realtime Database for Python. Will be setting up a simple database for documentation. 
 
 
-#### Creating it om GCP
+#### Creating it on GCP
 
 #### Setting up the database in Python
 
